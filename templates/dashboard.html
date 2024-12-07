@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ransomware Protection Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        pre {
+            background: #e8e8e8;
+            padding: 15px;
+            border-radius: 5px;
+            overflow: auto;
+            max-height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ransomware Protection Dashboard</h1>
+        <h2>Logs</h2>
+        <pre id="logs">Loading logs...</pre>
+        <h2>Alerts</h2>
+        <pre id="alerts">Loading alerts...</pre>
+    </div>
+
+    <script>
+        async function fetchLogs() {
+            const response = await fetch('/logs');
+            const data = await response.json();
+            const logsContainer = document.getElementById('logs');
+            if (data.logs) {
+                logsContainer.textContent = data.logs.join('\n');
+            } else {
+                logsContainer.textContent = "No logs available.";
+            }
+        }
+
+        async function fetchAlerts() {
+            const response = await fetch('/alerts');
+            const data = await response.json();
+            const alertsContainer = document.getElementById('alerts');
+            if (data.alerts) {
+                alertsContainer.textContent = data.alerts.join('\n');
+            } else {
+                alertsContainer.textContent = "No alerts available.";
+            }
+        }
+
+        // Fetch logs and alerts every 5 seconds
+        fetchLogs();
+        fetchAlerts();
+        setInterval(() => {
+            fetchLogs();
+            fetchAlerts();
+        }, 5000);
+    </script>
+</body>
+</html>
