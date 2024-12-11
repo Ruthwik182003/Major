@@ -1,13 +1,13 @@
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import logging
-from encryption import encrypt_file
-from tagging import is_sensitive_by_extension, classify_file_content
+from tagging import is_sensitive_by_extension, classify_encrypted_content
+from encryption import encrypt_data
+
 
 class MonitorHandler(FileSystemEventHandler):
-    """Handle file system events."""
-    def __init__(self, encryption_key):
-        self.encryption_key = encryption_key
+    def __init__(self, encryption_context):
+        self.encryption_context = encryption_context
 
     def on_created(self, event):
         if event.is_directory:
@@ -16,16 +16,19 @@ class MonitorHandler(FileSystemEventHandler):
         file_path = event.src_path
         logging.info(f"File created: {file_path}")
 
-        # Tag and encrypt sensitive files
-        if is_sensitive_by_extension(file_path) or classify_file_content(file_path):
-            logging.info(f"Sensitive file detected: {file_path}")
-            encrypt_file(file_path, self.encryption_key)
+        with open(file_path, 'r', errors='ignore') as file:
+            content = file.read()
+        encrypted_content = encrypt_data([content], self.encryption_context)
+
+        if is_sensitive_by_extension(file_path) or classify_encrypted_content(encrypted_content,
+                                                                              self.encryption_context):
+            logging.warning(f"Sensitive file detected: {file_path}")
 
 
-def start_monitoring(directory, encryption_key):
+def start_monitoring(directory, encryption_context):
     """Start monitoring the directory for file system events."""
     observer = Observer()
-    event_handler = MonitorHandler(encryption_key)
+    event_handler = MonitorHandler(encryption_context)
     observer.schedule(event_handler, directory, recursive=True)
     observer.start()
     try:

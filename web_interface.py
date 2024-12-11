@@ -28,7 +28,3 @@ def get_alerts():
             alerts = [line for line in log_file.readlines() if "WARNING" in line or "ERROR" in line]
         return jsonify({"alerts": alerts[::-1]})
     return jsonify({"error": "Log file not found"}), 404
-
-
-if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5000, debug=True)

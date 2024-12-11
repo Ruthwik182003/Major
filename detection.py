@@ -9,7 +9,6 @@ def detect_ransomware_behavior():
             for proc in psutil.process_iter(['pid', 'name', 'io_counters']):
                 if proc.info['io_counters'] and proc.info['io_counters'].write_bytes > DISK_IO_THRESHOLD:
                     logging.warning(f"Suspicious process detected: {proc.info['name']} (PID: {proc.info['pid']})")
-                    return True
+                    return
         except (psutil.NoSuchProcess, psutil.AccessDenied):
             continue
-    return False

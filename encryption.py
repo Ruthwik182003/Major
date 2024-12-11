@@ -1,35 +1,16 @@
-from cryptography.fernet import Fernet
-import os
-import logging
-from config import ENCRYPTION_KEY_FILE
+import tenseal as ts
 
-# Encryption Key Management
-def generate_encryption_key():
-    """Generate and save an encryption key."""
-    key = Fernet.generate_key()
-    with open(ENCRYPTION_KEY_FILE, 'wb') as key_file:
-        key_file.write(key)
-    logging.info("Encryption key generated and saved.")
-    return key
+def generate_encryption_context():
+    """Generate a homomorphic encryption context."""
+    context = ts.context(ts.SCHEME_TYPE.CKKS, poly_modulus_degree=8192, coeff_mod_bit_sizes=[60, 40, 40, 60])
+    context.generate_galois_keys()
+    context.generate_relin_keys()
+    return context
 
+def encrypt_data(data, context):
+    """Encrypt data using CKKS."""
+    return ts.ckks_vector(context, data)
 
-def load_encryption_key():
-    """Load an encryption key."""
-    if not os.path.exists(ENCRYPTION_KEY_FILE):
-        return generate_encryption_key()
-    with open(ENCRYPTION_KEY_FILE, 'rb') as key_file:
-        return key_file.read()
-
-
-def encrypt_file(file_path, key):
-    """Encrypt a file."""
-    fernet = Fernet(key)
-    try:
-        with open(file_path, 'rb') as file:
-            data = file.read()
-        encrypted_data = fernet.encrypt(data)
-        with open(file_path, 'wb') as file:
-            file.write(encrypted_data)
-        logging.info(f"Encrypted file: {file_path}")
-    except Exception as e:
-        logging.error(f"Failed to encrypt file: {file_path} - {e}")
+def decrypt_data(encrypted_data):
+    """Decrypt data."""
+    return encrypted_data.decrypt()

@@ -8,37 +8,12 @@ def is_sensitive_by_extension(file_name):
     _, ext = os.path.splitext(file_name)
     return ext in SENSITIVE_EXTENSIONS
 
-
-def classify_file_content(file_path):
+def classify_encrypted_content(encrypted_content, context):
     """Classify file content using a pre-trained ML model."""
-    try:
-        with open(file_path, 'r', errors='ignore') as file:
-            content = file.read()
-
-        # Load pre-trained model and vectorizer
-        with open(MODEL_PATH, 'rb') as model_file:
-            classifier = pickle.load(model_file)
-
-        with open(VECTORIZER_PATH, 'rb') as vectorizer_file:
-            vectorizer = pickle.load(vectorizer_file)
-
-        # Transform the content and classify
-        transformed_content = vectorizer.transform([content])
-        return classifier.predict(transformed_content)[0]
-    except Exception as e:
-        logging.error(f"Error classifying file content: {file_path} - {e}")
-        return False
-
-
-def tag_sensitive_files(directory):
-    """Tag sensitive files in the specified directory."""
-    sensitive_files = []
-    for root, _, files in os.walk(directory):
-        for file in files:
-            file_path = os.path.join(root, file)
-
-            if is_sensitive_by_extension(file) or classify_file_content(file_path):
-                logging.info(f"Sensitive file tagged: {file_path}")
-                sensitive_files.append(file_path)
-
-    return sensitive_files
+    decrypted_data = encrypted_content.decrypt()
+    with open(MODEL_PATH, 'rb') as model_file:
+        classifier = pickle.load(model_file)
+    with open(VECTORIZER_PATH, 'rb') as vectorizer_file:
+        vectorizer = pickle.load(vectorizer_file)
+    transformed_data = vectorizer.transform([decrypted_data])
+    return classifier.predict(transformed_data)[0]

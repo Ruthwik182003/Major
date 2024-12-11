@@ -1,7 +1,7 @@
 import os
 
 # Monitoring Directory
-MONITOR_PATH = "/path/to/monitor"
+MONITOR_PATH = r"D:\\Certifications"
 
 # Sensitive File Extensions
 SENSITIVE_EXTENSIONS = [".docx", ".pdf", ".xlsx", ".txt"]
@@ -9,9 +9,6 @@ SENSITIVE_EXTENSIONS = [".docx", ".pdf", ".xlsx", ".txt"]
 # ML Model Paths
 MODEL_PATH = "ml_classifier_model.pkl"
 VECTORIZER_PATH = "tfidf_vectorizer.pkl"
-
-# Encryption Key File
-ENCRYPTION_KEY_FILE = "encryption_key.key"
 
 # Logging Configuration
 LOG_DIRECTORY = "logs"

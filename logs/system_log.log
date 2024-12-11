@@ -1,0 +1,383 @@
+2024-12-08 00:39:26,815 - Encryption key generated and saved.
+2024-12-08 00:39:26,827 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:39:30,398 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:39:30,398 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:41:15,996 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:41:15,996 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:41:15,998 -  * Restarting with watchdog (windowsapi)
+2024-12-08 00:41:16,301 -  * Debugger is active!
+2024-12-08 00:41:16,304 -  * Debugger PIN: 213-507-096
+2024-12-08 00:42:03,176 -  * Detected change in 'C:\\Users\\ruthv\\PycharmProjects\\Detection of malware and sensitive tagging of files\\main.py', reloading
+2024-12-08 00:42:03,789 -  * Restarting with watchdog (windowsapi)
+2024-12-08 00:42:04,123 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:42:04,533 -  * Debugger is active!
+2024-12-08 00:42:04,535 -  * Debugger PIN: 213-507-096
+2024-12-08 00:42:11,646 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:42:11,856 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:42:11,856 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:42:21,906 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:42:21,906 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:42:21,907 -  * Restarting with watchdog (windowsapi)
+2024-12-08 00:42:21,949 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:42:21,949 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:42:21,950 -  * Restarting with watchdog (windowsapi)
+2024-12-08 00:42:22,219 -  * Debugger is active!
+2024-12-08 00:42:22,221 -  * Debugger PIN: 213-507-096
+2024-12-08 00:42:22,239 -  * Debugger is active!
+2024-12-08 00:42:22,241 -  * Debugger PIN: 213-507-096
+2024-12-08 00:43:40,588 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:43:40,589 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:43:40,589 -  * Restarting with watchdog (windowsapi)
+2024-12-08 00:43:40,870 -  * Debugger is active!
+2024-12-08 00:43:40,872 -  * Debugger PIN: 213-507-096
+2024-12-08 00:45:19,528 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:45:23,260 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:45:23,260 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:45:47,548 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:45:47,565 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$I7M0Y3Y.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:47,572 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$I7R80SI.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:47,575 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-08 00:45:47,575 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:45:47,587 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$IQ5QUQR.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:47,602 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$IX7Z7WH.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,135 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$R7M0Y3Y.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,230 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$R7R80SI.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,311 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$RQ5QUQR.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,370 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\$RX7Z7WH.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,375 - Error classifying file content: D:$RECYCLE.BIN\S-1-5-21-2879072565-2718841742-316331299-1001\desktop.ini - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,376 - Sensitive file tagged: D:Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:45:48,376 - Sensitive file tagged: D:Certifications\CEH security+.pdf
+2024-12-08 00:45:48,376 - Sensitive file tagged: D:Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:45:48,376 - Sensitive file tagged: D:Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:45:48,376 - Sensitive file tagged: D:Certifications\Ethical Hacking.pdf
+2024-12-08 00:45:48,376 - Sensitive file tagged: D:Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:45:48,777 - Error classifying file content: D:Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,783 - Sensitive file tagged: D:Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:45:48,783 - Sensitive file tagged: D:Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:45:48,784 - Sensitive file tagged: D:Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:45:48,784 - Sensitive file tagged: D:Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:45:48,784 - Sensitive file tagged: D:Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:45:48,784 - Sensitive file tagged: D:Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:45:48,784 - Sensitive file tagged: D:Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:45:48,784 - Sensitive file tagged: D:Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:45:48,888 - Error classifying file content: D:Notes\csfppts.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,946 - Error classifying file content: D:Notes\CSF\Module 3PPT.pptx - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:48,984 - Error classifying file content: D:Notes\CSF\Module 4.pptx - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:49,039 - Error classifying file content: D:Notes\UIUX\UID - MODULE 1 - Chapter-1.pptx - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:49,094 - Error classifying file content: D:Notes\UIUX\UID - MODULE 2.pptx - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:49,095 - Sensitive file tagged: D:papers\IEEE-literature review.pdf
+2024-12-08 00:45:49,095 - Sensitive file tagged: D:papers\Literature Review.pdf
+2024-12-08 00:45:49,096 - Sensitive file tagged: D:Projects\UIUX-ABA.pdf
+2024-12-08 00:45:49,115 - Error classifying file content: D:Projects\weather-app-main.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:49,147 - Error classifying file content: D:Projects\Resume\front.html - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:49,159 - Error classifying file content: D:Projects\Resume\css\style.css - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:49,159 - Error classifying file content: D:Projects\Resume\scripts\script.js - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:45:54,497 - Error classifying file content: D:Virtual Machines\metasploitable-linux-2.0.0.zip - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:46:14,478 - Error classifying file content: D:Virtual Machines\Parrot-security-6.1_amd64.iso - 
+2024-12-08 00:46:38,240 - Error classifying file content: D:Virtual Machines\VMware-workstation-full-17.5.2-23775571.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:46:38,300 - Error classifying file content: D:Virtual Machines\metasploitable-linux-2.0.0\Metasploitable2-Linux\Metasploitable.nvram - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:46:50,798 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:46:50,798 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:46:50,798 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-08 00:46:50,798 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:46:50,798 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:46:50,798 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:46:50,798 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:46:51,173 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:46:51,177 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:46:51,217 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:46:51,217 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:46:51,217 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:46:51,227 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-08 00:46:51,227 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:46:51,244 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:46:51,262 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:46:51,274 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:46:51,285 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:46:51,297 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:46:51,307 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:46:51,319 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:46:51,328 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:46:51,340 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:46:51,351 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:46:51,363 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:49:50,916 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:49:50,917 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:49:50,918 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-08 00:49:50,918 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:49:50,918 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:49:50,918 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:49:50,919 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:49:51,276 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:49:51,280 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:49:51,280 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:49:51,281 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:49:51,281 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:49:51,281 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:49:51,281 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:49:51,281 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:49:51,281 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:49:51,282 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 00:49:51,282 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:49:51,305 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:49:51,316 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-08 00:49:51,321 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:49:51,331 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:49:51,359 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:49:51,377 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:49:51,395 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:49:51,427 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:49:51,450 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:49:51,473 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:49:51,489 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:49:51,509 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:49:51,534 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:49:51,562 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:59:22,448 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:59:22,448 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:59:22,448 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-08 00:59:22,448 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:59:22,448 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:59:22,448 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:59:22,449 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:59:22,817 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:59:22,821 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:59:22,821 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:59:22,821 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:59:22,821 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:59:22,821 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:59:22,821 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:59:22,821 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:59:22,822 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:59:22,823 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-08 00:59:22,823 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:59:22,851 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:59:22,874 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-08 00:59:22,881 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:59:22,896 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:59:22,926 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:59:22,956 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:59:22,981 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:59:23,006 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:59:23,026 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:59:23,052 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:59:23,074 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:59:23,098 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:59:23,118 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:59:23,145 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:59:29,035 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:59:29,035 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:59:29,035 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-08 00:59:29,035 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:59:29,035 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:59:29,035 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:59:29,036 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:59:29,054 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-08 00:59:29,055 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:59:29,412 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:59:29,417 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:59:29,448 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:59:29,473 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-08 00:59:29,479 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:59:29,493 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:59:29,526 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:59:29,548 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:59:29,574 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:59:29,598 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:59:29,610 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:59:29,633 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:59:29,658 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:59:29,683 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:59:29,709 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:59:29,736 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:59:47,426 - Suspicious process detected: System (PID: 4)
+2024-12-08 00:59:47,426 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:59:47,426 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-08 00:59:47,426 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:59:47,426 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:59:47,427 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:59:47,427 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:59:47,800 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 00:59:47,804 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:59:47,804 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:59:47,805 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:59:47,805 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:59:47,805 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:59:47,805 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:59:47,805 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:59:47,805 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 00:59:47,806 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-08 00:59:47,806 - [33mPress CTRL+C to quit[0m
+2024-12-08 00:59:47,831 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 00:59:47,845 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-08 00:59:47,850 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 00:59:47,869 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 00:59:47,912 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 00:59:47,930 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 00:59:47,954 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 00:59:47,974 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 00:59:47,993 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 00:59:48,016 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 00:59:48,046 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 00:59:48,079 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 00:59:48,108 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 00:59:48,141 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 01:00:36,465 - Suspicious process detected: System (PID: 4)
+2024-12-08 01:00:36,466 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 01:00:36,466 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-08 01:00:36,466 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 01:00:36,467 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 01:00:36,467 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 01:00:36,467 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 01:00:36,479 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-12-08 01:00:36,480 - [33mPress CTRL+C to quit[0m
+2024-12-08 01:00:36,839 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 01:00:36,843 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 01:00:36,882 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 01:00:36,907 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-08 01:00:36,913 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 01:00:36,931 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 01:00:36,990 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 01:00:37,010 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 01:00:37,038 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 01:00:37,062 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 01:00:37,083 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 01:00:37,118 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 01:00:37,138 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 01:00:37,167 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 01:00:37,194 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 01:00:37,216 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 13:34:35,582 - Suspicious process detected: System (PID: 4)
+2024-12-08 13:34:35,582 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 13:34:35,583 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-08 13:34:35,583 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 13:34:35,583 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 13:34:35,583 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 13:34:35,585 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 13:34:35,680 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-08 13:34:35,680 - [33mPress CTRL+C to quit[0m
+2024-12-08 13:34:36,302 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-08 13:34:36,318 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 13:34:36,318 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 13:34:36,318 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 13:34:36,318 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 13:34:36,318 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 13:34:36,319 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 13:34:36,319 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 13:34:36,319 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-08 13:34:36,351 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-08 13:34:36,374 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-08 13:34:36,381 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-08 13:34:36,396 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-08 13:34:36,465 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-08 13:34:36,492 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-08 13:34:36,520 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-08 13:34:36,554 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-08 13:34:36,580 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-08 13:34:36,610 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-08 13:34:36,635 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-08 13:34:36,674 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-08 13:34:36,708 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-08 13:34:36,742 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-11 23:19:59,050 - Suspicious process detected: System (PID: 4)
+2024-12-11 23:19:59,051 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-11 23:19:59,051 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-11 23:19:59,051 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-11 23:19:59,051 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-11 23:19:59,051 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-11 23:19:59,051 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-11 23:19:59,108 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 23:19:59,108 - [33mPress CTRL+C to quit[0m
+2024-12-11 23:19:59,885 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-11 23:19:59,894 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-11 23:19:59,894 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-11 23:19:59,895 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-11 23:19:59,895 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-11 23:19:59,895 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-11 23:19:59,895 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-11 23:19:59,895 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-11 23:19:59,895 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-11 23:19:59,925 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-11 23:19:59,949 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-11 23:19:59,966 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-11 23:19:59,999 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-11 23:20:00,148 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-11 23:20:00,201 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-11 23:20:00,244 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-11 23:20:00,299 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-11 23:20:00,336 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-11 23:20:00,389 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-11 23:20:00,437 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-11 23:20:00,480 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-11 23:20:00,527 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-11 23:20:00,586 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-11 23:24:06,613 - Suspicious process detected: System (PID: 4)
+2024-12-11 23:24:06,614 - Sensitive file tagged: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-11 23:24:06,614 - Sensitive file tagged: D:\Certifications\CEH security+.pdf
+2024-12-11 23:24:06,614 - Sensitive file tagged: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-11 23:24:06,614 - Sensitive file tagged: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-11 23:24:06,614 - Sensitive file tagged: D:\Certifications\Ethical Hacking.pdf
+2024-12-11 23:24:06,615 - Sensitive file tagged: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-11 23:24:06,696 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 23:24:06,697 - [33mPress CTRL+C to quit[0m
+2024-12-11 23:24:07,078 - Error classifying file content: D:\Certifications\Git-2.47.1-64-bit.exe - [Errno 2] No such file or directory: 'ml_classifier_model.pkl'
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-11 23:24:07,090 - Sensitive file tagged: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-11 23:24:07,154 - Encrypted file: D:\Certifications\Analyze Network Traffic with TCPDump.pdf
+2024-12-11 23:24:07,185 - Encrypted file: D:\Certifications\CEH security+.pdf
+2024-12-11 23:24:07,206 - Encrypted file: D:\Certifications\Coursera GJTULNUFBGQ2.pdf
+2024-12-11 23:24:07,241 - Encrypted file: D:\Certifications\cybrary-cert-osint-basics.pdf
+2024-12-11 23:24:07,417 - Encrypted file: D:\Certifications\Ethical Hacking.pdf
+2024-12-11 23:24:07,474 - Encrypted file: D:\Certifications\Fundamentals of UI UX Design.pdf
+2024-12-11 23:24:07,531 - Encrypted file: D:\Certifications\Google AI Essentials certificate.pdf
+2024-12-11 23:24:07,586 - Encrypted file: D:\Certifications\Google Cybersecurity certificate.pdf
+2024-12-11 23:24:07,640 - Encrypted file: D:\Certifications\IAMPRO '24 Certificate.pdf
+2024-12-11 23:24:07,691 - Encrypted file: D:\Certifications\Security with AWS - IAM.pdf
+2024-12-11 23:24:07,730 - Encrypted file: D:\Certifications\TCPDump Quick Reference.pdf
+2024-12-11 23:24:07,799 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
+2024-12-11 23:24:07,855 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
+2024-12-11 23:24:07,928 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
