@@ -381,3 +381,96 @@
 2024-12-11 23:24:07,799 - Encrypted file: D:\Certifications\Vulnerability Scanning with Nmap.pdf
 2024-12-11 23:24:07,855 - Encrypted file: D:\Certifications\Wireshark for Beginners- TCP IP Protocol.pdf
 2024-12-11 23:24:07,928 - Encrypted file: D:\Certifications\Wireshark for Beginners-Capture Packets.pdf
+2024-12-15 19:32:15 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:32:16 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:32:16 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:32:22 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72918d7ffb0sm2941567b3a.2 - gsmtp')
+2024-12-15 19:32:38 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:32:39 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:32:39 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:32:43 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72918bce8d9sm2968280b3a.200 - gsmtp')
+2024-12-15 19:32:53 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:32:54 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:32:54 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:32:57 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-801d5c3a65asm2108084a12.75 - gsmtp')
+2024-12-15 19:33:39 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:33:39 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:33:39 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:33:46 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72918ac5296sm3063270b3a.22 - gsmtp')
+2024-12-15 19:34:46 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:34:47 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:34:47 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:34:48 - INFO - 127.0.0.1 - - [15/Dec/2024 19:34:48] "GET / HTTP/1.1" 200 -
+2024-12-15 19:34:48 - INFO - 127.0.0.1 - - [15/Dec/2024 19:34:48] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:34:48 - INFO - 127.0.0.1 - - [15/Dec/2024 19:34:48] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:34:50 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-218a1e50250sm25989685ad.122 - gsmtp')
+2024-12-15 19:34:53 - INFO - 127.0.0.1 - - [15/Dec/2024 19:34:53] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:34:53 - INFO - 127.0.0.1 - - [15/Dec/2024 19:34:53] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:37:04 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:37:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:37:04 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:37:10 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f2a1cbd785sm2946717a91.0 - gsmtp')
+2024-12-15 19:41:01,545 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:41:01,832 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:41:01,832 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:41:03,825 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:03] "GET / HTTP/1.1" 200 -
+2024-12-15 19:41:04,730 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:04] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:41:04,823 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:04] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:41:06,199 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-218a1dcc47bsm26994575ad.63 - gsmtp')
+2024-12-15 19:41:09,693 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:09] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:41:09,703 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:09] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:41:14,710 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:14] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:41:14,726 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:14] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:41:19,666 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:19] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:41:19,845 - INFO - 127.0.0.1 - - [15/Dec/2024 19:41:19] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:42:32,145 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:42:32,604 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:42:32,605 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:42:34,209 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:34] "GET / HTTP/1.1" 200 -
+2024-12-15 19:42:35,135 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:35] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:42:35,199 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:35] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:42:35,661 - ERROR - Failed to send alert email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-801d5a933c1sm2634102a12.2 - gsmtp')
+2024-12-15 19:42:40,138 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:40] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:42:40,179 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:40] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:42:45,104 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:45] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:42:45,144 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:45] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:42:50,029 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:50] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:42:50,203 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:50] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:42:55,920 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:55] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:42:56,021 - INFO - 127.0.0.1 - - [15/Dec/2024 19:42:56] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:43:00,624 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:00] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:43:00,639 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:00] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:43:05,719 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:05] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:43:05,753 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:05] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:43:10,754 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:10] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:43:10,955 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:10] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:43:15,715 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:15] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:43:15,902 - INFO - 127.0.0.1 - - [15/Dec/2024 19:43:15] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:44:00,872 - WARNING - Suspicious process detected: System (PID: 4)
+2024-12-15 19:44:01,620 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-15 19:44:01,620 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-15 19:44:03,192 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:03] "GET / HTTP/1.1" 200 -
+2024-12-15 19:44:04,214 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:04] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:44:04,291 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:04] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:44:04,584 - ERROR - Failed to send alert email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-218a1e72292sm26495525ad.273 - gsmtp')
+2024-12-15 19:44:08,691 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:08] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:44:08,830 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:08] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:44:09,145 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:09] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:44:09,145 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:09] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:44:14,621 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:14] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:44:14,806 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:14] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:44:19,756 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:19] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:44:19,974 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:19] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:44:24,784 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:24] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:44:24,799 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:24] "GET /alerts HTTP/1.1" 200 -
+2024-12-15 19:44:29,822 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:29] "GET /logs HTTP/1.1" 200 -
+2024-12-15 19:44:29,837 - INFO - 127.0.0.1 - - [15/Dec/2024 19:44:29] "GET /alerts HTTP/1.1" 200 -

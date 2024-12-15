@@ -21,3 +21,17 @@ DEBUG_MODE = True
 
 # Thresholds
 DISK_IO_THRESHOLD = 10**7  # Example threshold for suspicious disk I/O
+
+if not os.path.exists(LOG_DIRECTORY):
+    os.makedirs(LOG_DIRECTORY)
+
+# Logging setup
+import logging
+logging.basicConfig(
+    level=logging.DEBUG,  # Capture all levels of logs (DEBUG, INFO, WARNING, ERROR)
+    format="%(asctime)s - %(levelname)s - %(message)s",  # Format for log messages
+    handlers=[
+        logging.FileHandler(LOG_FILE),  # Save logs to the file
+        logging.StreamHandler()  # Also display in the terminal
+    ]
+)
