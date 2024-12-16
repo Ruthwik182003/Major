@@ -6,9 +6,9 @@ import logging
 # Email Configuration
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_SENDER = "ruthvikramesh18@gmail.com"
-EMAIL_PASSWORD = "Sulemagane69"
-EMAIL_RECEIVER = "ruthvikramesh2003@gmail.com"
+EMAIL_SENDER = ""
+EMAIL_PASSWORD = ""
+EMAIL_RECEIVER = ""
 
 
 def send_email_alert(message):
